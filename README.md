@@ -53,6 +53,6 @@ I am a versatile developer 💻, working mainly with Python, JavaScript, HTML, C
 </a> <br>
 🛠️ My Projects
 
-<a href="https://github.com/hamolime/project1" target="_blank"><img alt="project1" src="./projects/project1.svg" height="68" align="left"></a>
-<a href="https://github.com/hamolime/project2" target="_blank"><img alt="project2" src="./projects/project2.svg" height="68" align="left"></a>
-<a href="https://github.com/hamolime/project3" target="_blank"><img alt="project3" src="./projects/project3.svg" height="68" align="left"></a>
+# <a href="https://github.com/hamolime/project1" target="_blank"><img alt="project1" src="./projects/project1.svg" height="68" align="left"></a>
+# <a href="https://github.com/hamolime/project2" target="_blank"><img alt="project2" src="./projects/project2.svg" height="68" align="left"></a>
+# <a href="https://github.com/hamolime/project3" target="_blank"><img alt="project3" src="./projects/project3.svg" height="68" align="left"></a>
