@@ -16,8 +16,6 @@ I am a versatile developer 💻, working mainly with Python, JavaScript, HTML, C
 
 👨🏻‍💻   Most of my projects are available on Github
 
-💬   Ask me about Python, JavaScript, Web Development, or scripting
-
 📫   Feel free to ping me on Facebook
 
 📝   Checkout my resume
