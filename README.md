@@ -9,7 +9,7 @@
 - 🌱 Learning **JavaScript** to level up my front-end skills.
 - 🤖 Interested in **AI (Artificial Intelligence)** & Automation.
 - 💻 Writing **BatchScripts** to make life easier.
-- ⚽ Fun fact: I'm a football player who can code for 5 hours straight!
+- ⚽ Fun fact: I'm a football player who can code for many time hours straight!
 
 #### 📫 How to reach me:
 
