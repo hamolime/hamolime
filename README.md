@@ -11,7 +11,7 @@
        src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" 
        height='18px'/>
 </a>
-
+<br>
 I am a versatile developer 💻, working mainly with Python, JavaScript, HTML, CSS, and BatchScript. I love building web apps 🌐, automations 🤖, and small projects that make life easier 🛠️. Always exploring new tools and tech stacks to improve my skills 🚀.
 
 <br/> <br/> <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
