@@ -1,7 +1,17 @@
 *I'M ✍️ Mohamed Zakaria ✍️*
 
-<a href='https://www.facebook.com/mohamed.zakaria.425625'><img align='left' alt="facebook" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
-<a href='https://github.com/hamolime'><img align='left' alt="github" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='18px'/></a>
+<a href='https://www.facebook.com/mohamed.zakaria.425625'>
+  <img align='left' alt="facebook" 
+       src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/facebook.svg" 
+       height='18px'/>
+</a>
+
+<a href='https://github.com/hamolime'>
+  <img align='left' alt="github" 
+       src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/github.svg" 
+       height='18px'/>
+</a>
+
 
 I am a versatile developer 💻, working mainly with Python, JavaScript, HTML, CSS, and BatchScript. I love building web apps 🌐, automations 🤖, and small projects that make life easier 🛠️. Always exploring new tools and tech stacks to improve my skills 🚀.
 
