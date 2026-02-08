@@ -3,12 +3,6 @@
 ### Hello World! <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
 ![](https://komarev.com/ghpvc/?username=hamolime&label=Profile%20Visits&color=blue&style=for-the-badge)
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hey+there!+I'm+mohamed;learn +Python+Developer;Working+on+HTML+and+CSS;Future+Software+Engineer" alt="Typing SVG" />
-  </a>
-</p>
-
 - 🔭 I’m currently building awesome projects with **Python** & **Web Tech**.
 - 🌱 Learning **JavaScript** to level up my front-end skills.
 - 🤖 Interested in **AI (Artificial Intelligence)** & Automation.
@@ -31,3 +25,11 @@
 [![Stats](https://github-readme-stats-fork-orpin.vercel.app/api?username=hamolime&show_icons=true&theme=radical)](https://github.com/hamolime)
 
 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/saved.gif" width="195" align="right">
+
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,github,vscode&theme=dark" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamolime&bg_color=000000&color=00D1FF&line=00D1FF&point=FFFFFF&area=true&hide_border=true" />
+</p>
