@@ -3,7 +3,11 @@
 ### Hello World! <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
 ![](https://komarev.com/ghpvc/?username=hamolime&label=Profile%20Visits&color=blue&style=for-the-badge)
 
-<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hey+there!+I'm+mohamed;learn +Python+Developer;Working+on+HTML+and+CSS;Future+Software+Engineer" alt="Typing SVG" />
+  </a>
+</p>
 
 - 🔭 I’m currently building awesome projects with **Python** & **Web Tech**.
 - 🌱 Learning **JavaScript** to level up my front-end skills.
