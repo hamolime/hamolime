@@ -107,9 +107,9 @@ me = MohamedZakaria()
 
 **Code Cycle**<br>
 
-<img src="[https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png](https://www.google.com/imgres?q=bug%20programming&imgurl=https%3A%2F%2Fwww.droptica.com%2Fsites%2Fdroptica.com%2Ffiles%2Fstyles%2Fblog_banner_image%2Fpublic%2Fmedia%2Fimage%2FDetecting-Bugs.png%3Fitok%3DcyB5x6HZ&imgrefurl=https%3A%2F%2Fwww.droptica.com%2Fblog%2Fdetecting-bugs-code-7-debugging-tools-faster-operation%2F&docid=BWyyP27uEgjKtM&tbnid=o1hHmNNCD7E5MM&vet=12ahUKEwiKpYKFgeqXAxVt9LsIHRVhCk8QnPAOegUIvAEQAA..i&w=1920&h=773&hcb=2&ved=2ahUKEwiKpYKFgeqXAxVt9LsIHRVhCk8QnPAOegUIvAEQAA)" width="10%" alt="Bug"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1mWZ5ZIvnsvwguqEJSQu5utsmKHiJS1R6fzoKRLN4ZQ&s=10" width="10%" alt="Bug"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="[https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png](https://www.google.com/imgres?q=fixed%20programming&imgurl=https%3A%2F%2Fhackernoon.imgix.net%2Fimages%2FMJpFVUEItkSdoh38rYo60VT7RfH3-er7p29kl.jpeg%3Fauto%3Dformat%252Ccompress%26w%3D3840&imgrefurl=https%3A%2F%2Fhackernoon.com%2Fcs-data-structures-fixed-array-021f351p&docid=QCx6n8wMedCObM&tbnid=UoJjd3AakCbQyM&vet=12ahUKEwiZwdCkgeqXAxU2h_0HHSZ4GIYQnPAOegUIuQEQAA..i&w=3840&h=2560&hcb=2&itg=1&ved=2ahUKEwiZwdCkgeqXAxU2h_0HHSZ4GIYQnPAOegUIuQEQAA)" width="10%" alt="Fixed"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiCRvNdempU1bK_l31kxanTje52mPJf2kj1YT1ZXHMCg&s=10" width="10%" alt="Fixed"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFUuzEwNuXJR9lgFKX6kNxgJ2g8f2IvxxG3t52I6OObQ&s=10" width="10%" alt="Working somehow"/><br>
 
